@@ -1,0 +1,33 @@
+# StudentHub - Practical 1
+
+**Author:** Pranshu V. Gandhi  
+**Roll No:** 25dit017  
+**Department:** Information Technology, Charusat University  
+
+## What I Learned
+Through this practical, I learned the importance of planning before coding. I discovered how to define the scope and architecture of a web application using sitemaps and wireframes. Creating wireframes helped me visualize the user interface without getting bogged down by CSS, and setting up this GitHub repository taught me the basics of version control and project structuring.
+
+## Key Questions & Analysis
+
+**1. What is a URL and what are its parts?**
+A URL (Uniform Resource Locator) is the address of a specific web resource. Its main parts include:
+*   **Scheme/Protocol:** Specifies how to access the resource (e.g., `https://`).
+*   **Domain Name:** The server hosting the site (e.g., `www.studenthub.edu`).
+*   **Port:** The technical "gate" used to access the server (often hidden, like `:443` for HTTPS).
+*   **Path:** The specific file or directory on the server (e.g., `/dashboard/events.html`).
+
+**2. How is an HTML file processed in a web browser?**
+When a browser receives an HTML document, it reads it from top to bottom. It parses the code, downloads any linked resources (like images or CSS files), and constructs a Document Object Model (DOM) tree. The browser then renders this DOM tree onto the screen as a visual webpage.
+
+**3. How will page navigation flow be managed among all HTML pages?**
+Navigation will be managed using HTML anchor `<a>` tags connecting the various static pages. A consistent navigation bar (header/sidebar) will be included on all pages to ensure users can easily jump between core modules like the Dashboard, Events, and Profile without getting lost.
+
+**4. How will GitHub commits be maintained after each practical?**
+A new folder or branch will be created for each practical session. After completing the objectives for a specific practical, the changes will be staged and committed with a clear, descriptive message (e.g., `git commit -m "feat: complete practical 1 wireframes and readme"`). This ensures a clean, step-by-step history of the semester's work.
+
+## Terminology Definitions
+
+*   **Project Initiation:** The first phase of a project where its broad outlines, purpose, goals, and initial scope are defined before any actual development begins.
+*   **Requirement Analysis:** The process of determining user expectations for a new or modified product, translating vague ideas into concrete, actionable technical tasks.
+*   **Sitemap:** A visual or text-based diagram that outlines the hierarchy and linking structure of a website's pages, showing how they relate to one another.
+*   **Wireframe:** A basic, low-fidelity visual guide (often grayscale) that represents the skeletal framework of a webpage, focusing on layout, content placement, and functionality rather than final aesthetics.
