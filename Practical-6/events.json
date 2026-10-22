@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Web Design Workshop",
+    "date": "2026-08-01",
+    "venue": "IT Lab",
+    "category": "Workshop"
+  },
+  {
+    "id": 2,
+    "title": "Annual Tech Fest",
+    "date": "2026-09-02",
+    "venue": "University Auditorium",
+    "category": "Festival"
+  },
+  {
+    "id": 3,
+    "title": "Coding Contest",
+    "date": "2026-10-03",
+    "venue": "Computer Lab 2",
+    "category": "Competition"
+  },
+  {
+    "id": 4,
+    "title": "Sports Day",
+    "date": "2026-11-04",
+    "venue": "Sports Ground",
+    "category": "Sports"
+  },
+  {
+    "id": 5,
+    "title": "Cultural Evening",
+    "date": "2026-08-05",
+    "venue": "Open Air Theatre",
+    "category": "Cultural"
+  },
+  {
+    "id": 6,
+    "title": "AI Introduction",
+    "date": "2026-09-06",
+    "venue": "Seminar Hall",
+    "category": "Workshop"
+  },
+  {
+    "id": 7,
+    "title": "Project Expo",
+    "date": "2026-10-07",
+    "venue": "Main Hall",
+    "category": "Exhibition"
+  },
+  {
+    "id": 8,
+    "title": "Photography Contest",
+    "date": "2026-11-08",
+    "venue": "Campus",
+    "category": "Competition"
+  },
+  {
+    "id": 9,
+    "title": "Career Guidance",
+    "date": "2026-08-09",
+    "venue": "Seminar Hall",
+    "category": "Career"
+  },
+  {
+    "id": 10,
+    "title": "Robotics Demo",
+    "date": "2026-09-10",
+    "venue": "Innovation Lab",
+    "category": "Workshop"
+  },
+  {
+    "id": 11,
+    "title": "Hackathon",
+    "date": "2026-10-11",
+    "venue": "IT Lab",
+    "category": "Competition"
+  },
+  {
+    "id": 12,
+    "title": "Library Week",
+    "date": "2026-11-12",
+    "venue": "Central Library",
+    "category": "Academic"
+  },
+  {
+    "id": 13,
+    "title": "Music Night",
+    "date": "2026-08-13",
+    "venue": "Open Air Theatre",
+    "category": "Cultural"
+  },
+  {
+    "id": 14,
+    "title": "Placement Talk",
+    "date": "2026-09-14",
+    "venue": "Seminar Hall",
+    "category": "Career"
+  },
+  {
+    "id": 15,
+    "title": "Alumni Meet",
+    "date": "2026-10-15",
+    "venue": "Main Hall",
+    "category": "Meetup"
+  }
+]

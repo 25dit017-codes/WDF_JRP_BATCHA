@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Patel",
+    "email": "student1@example.com",
+    "course": "IT",
+    "year": 1
+  },
+  {
+    "id": 2,
+    "name": "Diya Shah",
+    "email": "student2@example.com",
+    "course": "Computer Engineering",
+    "year": 2
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "email": "student3@example.com",
+    "course": "IT",
+    "year": 3
+  },
+  {
+    "id": 4,
+    "name": "Anaya Desai",
+    "email": "student4@example.com",
+    "course": "Computer Engineering",
+    "year": 4
+  },
+  {
+    "id": 5,
+    "name": "Vivaan Joshi",
+    "email": "student5@example.com",
+    "course": "IT",
+    "year": 1
+  },
+  {
+    "id": 6,
+    "name": "Ishita Trivedi",
+    "email": "student6@example.com",
+    "course": "Data Science",
+    "year": 2
+  },
+  {
+    "id": 7,
+    "name": "Arjun Parmar",
+    "email": "student7@example.com",
+    "course": "IT",
+    "year": 3
+  },
+  {
+    "id": 8,
+    "name": "Sara Khan",
+    "email": "student8@example.com",
+    "course": "Computer Engineering",
+    "year": 4
+  },
+  {
+    "id": 9,
+    "name": "Krish Shah",
+    "email": "student9@example.com",
+    "course": "Data Science",
+    "year": 1
+  },
+  {
+    "id": 10,
+    "name": "Myra Patel",
+    "email": "student10@example.com",
+    "course": "IT",
+    "year": 2
+  },
+  {
+    "id": 11,
+    "name": "Dev Joshi",
+    "email": "student11@example.com",
+    "course": "Computer Engineering",
+    "year": 3
+  },
+  {
+    "id": 12,
+    "name": "Kiara Mehta",
+    "email": "student12@example.com",
+    "course": "IT",
+    "year": 4
+  },
+  {
+    "id": 13,
+    "name": "Reyansh Desai",
+    "email": "student13@example.com",
+    "course": "Data Science",
+    "year": 1
+  },
+  {
+    "id": 14,
+    "name": "Aadhya Parmar",
+    "email": "student14@example.com",
+    "course": "Computer Engineering",
+    "year": 2
+  },
+  {
+    "id": 15,
+    "name": "Kabir Trivedi",
+    "email": "student15@example.com",
+    "course": "IT",
+    "year": 3
+  },
+  {
+    "id": 16,
+    "name": "Navya Shah",
+    "email": "student16@example.com",
+    "course": "Data Science",
+    "year": 4
+  },
+  {
+    "id": 17,
+    "name": "Dhruv Patel",
+    "email": "student17@example.com",
+    "course": "IT",
+    "year": 1
+  },
+  {
+    "id": 18,
+    "name": "Saanvi Joshi",
+    "email": "student18@example.com",
+    "course": "Computer Engineering",
+    "year": 2
+  },
+  {
+    "id": 19,
+    "name": "Advik Mehta",
+    "email": "student19@example.com",
+    "course": "IT",
+    "year": 3
+  },
+  {
+    "id": 20,
+    "name": "Pari Desai",
+    "email": "student20@example.com",
+    "course": "Data Science",
+    "year": 4
+  }
+]

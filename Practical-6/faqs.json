@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "How do I register?",
+    "answer": "Open the registration page and complete all required fields.",
+    "category": "Account"
+  },
+  {
+    "id": 2,
+    "question": "How do I reset my password?",
+    "answer": "Use the forgot password option or contact support.",
+    "category": "Account"
+  },
+  {
+    "id": 3,
+    "question": "Where can I see events?",
+    "answer": "Open the Events page from the main menu.",
+    "category": "Events"
+  },
+  {
+    "id": 4,
+    "question": "Can I edit my profile?",
+    "answer": "Open Profile and update your details.",
+    "category": "Account"
+  },
+  {
+    "id": 5,
+    "question": "How do I contact support?",
+    "answer": "Use the Contact page to send a message.",
+    "category": "Support"
+  },
+  {
+    "id": 6,
+    "question": "Where are notices shown?",
+    "answer": "Notices are available from the dashboard.",
+    "category": "Academic"
+  },
+  {
+    "id": 7,
+    "question": "How do I join an event?",
+    "answer": "Open an event and select Register.",
+    "category": "Events"
+  },
+  {
+    "id": 8,
+    "question": "Can I use StudentHub on mobile?",
+    "answer": "Yes, the pages are designed to fit small screens.",
+    "category": "General"
+  },
+  {
+    "id": 9,
+    "question": "Who can access the admin page?",
+    "answer": "Only accounts with the admin role can access it.",
+    "category": "Account"
+  },
+  {
+    "id": 10,
+    "question": "How do I view my courses?",
+    "answer": "Choose Courses from the navigation menu.",
+    "category": "Academic"
+  },
+  {
+    "id": 11,
+    "question": "Where can I see results?",
+    "answer": "Open the Results page after signing in.",
+    "category": "Academic"
+  },
+  {
+    "id": 12,
+    "question": "How do I update my email?",
+    "answer": "Contact the administrator if email changes are restricted.",
+    "category": "Account"
+  },
+  {
+    "id": 13,
+    "question": "What if a page does not load?",
+    "answer": "Refresh the page and check your internet connection.",
+    "category": "Support"
+  },
+  {
+    "id": 14,
+    "question": "Can I sign out?",
+    "answer": "Use the Logout button in your account menu.",
+    "category": "Account"
+  },
+  {
+    "id": 15,
+    "question": "How do I send feedback?",
+    "answer": "Open Feedback and submit your comments.",
+    "category": "Support"
+  }
+]
